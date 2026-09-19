@@ -1,0 +1,6 @@
+{
+  "name": "TikSpark Pro Suite",
+  "description": "منصة احترافية لإدارة وتجميع حسابات TikSpark وإطلاق الحملات الجماعية مع لوحة تحكم حية وتحليلات ومراقبة WebSocket",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
